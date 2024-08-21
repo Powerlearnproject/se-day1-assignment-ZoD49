@@ -101,12 +101,21 @@ Acceptance Testing: Conducted to determine if the software meets business requir
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+ZoD49-patch-1
+Prompt engineering is the practice of designing and refining prompts to effectively guide AI models to produce more accurate, relevant and useful responses.
+Importance of Prompt Engineering:
+1. Enhances the accuracy and relelvance of AI responses.
+2. Saves time by reducing the need for follow-up questions.
+3. It helps manage complex problems by breaking them down into simpler blocks
+
+=======
 Prompt engineering is the designing of inputs and structuring of instructions which are fed into generative artificial intelligence to guide these machines in delivering optimal outputs. 
 The importance of precise prompting is to guide and ensure the outputs of AI are relevant and accurate.
+main
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague Prompt: Tell me about the project.
-Improved Prompt: Provide a summary of the key features and objectives of the new e-commerce website project, including the target audience and timeline for the first release.
-•	Specificity: Clearly defines what details are needed (features, objectives, target audience, timeline).
-•	Clarity: Focuses the response on relevant information, reducing ambiguity.
-•	Conciseness: Directly addresses the core aspects of the project, making the response more precise and useful.
+"Give me some feedback" is an example of a vague prompt
+improved prompt - Please provide specific feedback on the clarity and structure of the introduction in my latest project report, including any suggestions for improvement
+Specificity: Asks for feedback on a particular part of the report (the introduction).
+Clarity: Specifies the aspects to focus on (clarity and structure).
+Actionable: Encourages suggestions, making the feedback more constructive and useful.
